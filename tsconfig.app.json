@@ -1,0 +1,27 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "include": [
+    "typings/*.d.ts",
+    "packages/**/*.d.ts",
+    "packages/**/*.vue",
+    "packages/**/*.ts",
+    "packages/**/*.tsx",
+    "examples/**/*.tsx",
+    "examples/**/*.vue",
+    "examples/**/*.ts",
+  ],
+  "exclude": [
+    "packages/**/__tests__/*"
+  ],
+  "compilerOptions": {
+    "target": "ES6",
+    "composite": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./packages/*"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# 忽略目录
+examples/
+public/
+dist/
+.vscode/
+
+# 忽略指定文件
+vite.config.ts
+tsconfig.config.json
+tsconfig.node.json
+index.html
+env.d.ts
+CHANGELOG.md
+.gitignore
+yarn.lock
+*.map
