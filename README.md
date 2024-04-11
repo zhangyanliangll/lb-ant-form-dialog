@@ -40,7 +40,7 @@ declare module 'vue' {
 
 在`module.d.ts`文件中引入并注册
 
-````ts
+```ts
 declare module 'lb-ant-form-dialog'
 ```
 
@@ -168,7 +168,7 @@ const formGroup: IFormGroupsItem[] = [
   }
 ]
 </script>
-````
+```
 
 ## 特点
 
