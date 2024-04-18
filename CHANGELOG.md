@@ -1,5 +1,12 @@
 
 
+## [1.0.2](https://github.com/zhangyanliangll/lb-ant-form-dialog/compare/1.0.1...1.0.2) (2024-04-18)
+
+
+### Bug Fixes
+
+* 文档修改 ([03d9d66](https://github.com/zhangyanliangll/lb-ant-form-dialog/commit/03d9d669ec6527f127162b107b7e34e1b8fbb9f6))
+
 ## 1.0.1 (2024-04-11)
 
 ## [1.0.3](https://github.com/zhangyanliangll/lb-ant-form-dialog/compare/1.0.1...1.0.3) (2024-04-11)
